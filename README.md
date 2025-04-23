@@ -1,7 +1,4 @@
-# temi_kumapayi
-This is a portfolio for Temi Kumapayi
-
-# FirstName LastName
+# Temi Kumapayi
 Contact Info: [fill in]
 
 ### About Me 
