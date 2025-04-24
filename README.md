@@ -28,12 +28,12 @@ Class of 2028
 
 #### Grade Calculator 
  - I created a grade calculator using MS Excel to calculate end-of-the-semester grades for my classes and keep on top of things. 
- - ![]()
+ - ![Here is my Grade Calculator!](/tools/grade.jpg)
  - Using MS Excel, I created a grade calculator that assisted me in calculating my grade for the end of the semester. This is greatly important to me, as an aspiring pediatrician, you need a high GPA to get into medical school, so ensuring my grades will remain up to the appropriate standard is very important. Using the calculator allows me to input grades for future assignments as well as to gauge what grade I must receive to remain in my target range. This elevates stress because then I know where I need to dedicate more energy and studying to versus another assignment. The biggest challenge I had for this project was the format as well. It’s hard to make a skeleton calculator when the needs, weights, and even number of assignments from class to class and semester to semester differ so greatly. If I could make some improvements, I would change the layout and try to make it as universal as possible to make it easy to use and access.
 
 ***
 
 #### Databases 
  - I created a database using MS Access to create a database of grades for students across time. 
- - [insert project 3 screenshot here]
- - Project 3 Report
+ - ![Here is my budget tracker!](/tools/jtranscript.jpg)
+ - Using MS Access, I was able to create a database that could be used to tag individuals with their identification and curate reports based on certain criteria selected by the user. The user would be inserted into the database and given an identification number that could be used to tie to, for example, a student’s grades over their four years of education. You could then categorize these by semester, year, and even calculate the student’s overall grade. A difficult aspect of this project was creating the report and understanding the different elements and how to manipulate them to create the report I wanted. I was able to successfully create a database that could create different reports based on certain filters. 
