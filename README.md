@@ -1,5 +1,5 @@
 # Temi Kumapayi
-Contact Info: [fill in]
+Contact Info: Reach me by email at tdkumapayi@loyola.edu
 
 ### About Me 
 Hello! I am an aspiring pediatrician and biohealth major with a year of proven experience in research and biological commercialization. 
