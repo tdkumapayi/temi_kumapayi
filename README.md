@@ -1,3 +1,5 @@
+![Banner goes here](/tools/banner1.png)
+
 # Temi Kumapayi
 Contact Info: Reach me by email at tdkumapayi@loyola.edu
 
