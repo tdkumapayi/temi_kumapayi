@@ -1,5 +1,5 @@
 title: Temi Kumapayi Portfolio 
-logo: /tools/headshot.png 
+logo: (/tools/headshot.png)
 description: My name is Temi Kumapayi and these are the accomplishments that I have had so far
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
